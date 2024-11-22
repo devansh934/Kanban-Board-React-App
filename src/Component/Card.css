@@ -1,0 +1,49 @@
+.cardC{
+    background-color: white;
+        width: 22rem;
+        height: 6.5rem;
+        cursor: pointer;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+
+}
+
+
+.imageC{
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.camC{
+    display: flex;
+    gap: 15rem;
+}
+
+.sizeC{
+    font-size:12px;
+    color: gray;
+    font-weight: 500;
+}
+.check{
+    font-size: 14px;
+    color: gray;
+}
+
+.titleC{
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.imgC{
+    display: flex;
+}
+.plusC{
+    display: flex;
+    gap:10px;
+    
+}
+
+.flexC{
+    display: flex;
+    gap:8rem;
+}
+
